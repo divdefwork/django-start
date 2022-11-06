@@ -9,7 +9,7 @@
 - 
 </details>
 
-✅
+✅ 
 
 ### [Generate random secret key](https://djecrety.ir/)
 python3 manage.py startapp <name>
